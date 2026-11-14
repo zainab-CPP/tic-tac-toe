@@ -1,5 +1,5 @@
 Tic_Tac_Toe
-A simple console-based Tic Tac Toe game written in c.
+A simple console-based Tic Tac Toe game written in c++.
 
 Features
 .Two-player gameplay
@@ -10,7 +10,7 @@ Features
 .Checks occupied cells
 
 Technologies
-.c
+.c++
 .Functions
 .Two-dimensional arrays
 .Loops
